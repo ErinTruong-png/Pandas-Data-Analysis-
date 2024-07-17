@@ -1,2 +1,3 @@
-This is a repository of all of the data cleaning and formating projects that I have worked on. 
-I will focus on mainly Pandas and Python demonstrate my technical knowledge on organizing and cleaning data 
+This is a repository of all of the data analysis projects that I have been working on 
+includes data cleaning, exploratory analysis, and more! 
+The main methods will be Pandas, Matplotlib, and Python 
